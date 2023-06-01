@@ -1,3 +1,14 @@
+![image](https://github.com/rikopermana14/Web-bioskop-laravel/assets/120579119/ebcfe7e3-1286-43a1-ae33-8cf3c7bea093)
+![image](https://github.com/rikopermana14/Web-bioskop-laravel/assets/120579119/04c010e0-8eed-448b-887c-e16f4ba015d0)
+<a>Admin</a>
+![image](https://github.com/rikopermana14/Web-bioskop-laravel/assets/120579119/31c63f1e-8ac0-40c0-92db-7219c2f593f9)
+![image](https://github.com/rikopermana14/Web-bioskop-laravel/assets/120579119/4fb6a32f-7693-4880-b4e5-96699c93bcac)
+<a>Use</a>
+![image](https://github.com/rikopermana14/Web-bioskop-laravel/assets/120579119/08e272ce-8621-459c-809e-e060f59d90ca)
+![image](https://github.com/rikopermana14/Web-bioskop-laravel/assets/120579119/2fe42e75-e2fb-4190-bb97-42df3fc815ff)
+![image](https://github.com/rikopermana14/Web-bioskop-laravel/assets/120579119/168be07f-76c2-409a-a20f-b214f5c594cc)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
